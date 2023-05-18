@@ -1,2 +1,2 @@
 # Responsive-Blog-Website
-Designed and Developed a responsive blog website using python framework Flask, HTML, CSS, and Bootstrap.
+Designed and Developed a responsive and basic blog website using python framework Flask, HTML, CSS, and Bootstrap.
